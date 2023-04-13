@@ -1,0 +1,90 @@
+id,name,type,location,rooms,employees,revenue,conversation
+1,Grand Hotel,Hotel,A,200,100,1000000,0
+2,Beach Resort,Resort,B,300,200,1500000,1
+3,Health Clinic,Clinic,C,20,10,500000,0
+4,Mountain Lodge,Lodge,D,50,25,500000,0
+5,Spa Resort,Resort,E,400,250,2000000,1
+6,Restaurant,Restaurant,F,10,5,100000,1
+7,Beachfront Hotel,Hotel,B,100,50,500000,0
+8,Art Museum,Museum,G,5,2,50000,1
+9,City Center Hotel,Hotel,C,120,60,600000,1
+10,Ski Resort,Resort,D,250,150,1000000,0
+11,Fitness Center,Gym,A,30,15,250000,1
+12,Science Center,Museum,H,8,4,100000,0
+13,Riverfront Lodge,Lodge,D,40,20,250000,0
+14,Beachfront Resort,Resort,B,350,225,2500000,0
+15,Public Library,Library,E,15,8,75000,0
+16,Downtown Hotel,Hotel,C,200,100,750000,1
+17,Mountain Resort,Resort,D,300,175,1500000,1
+18,Theater,Theater,F,5,3,75000,1
+19,Clothing Store,Retail Store,G,2,1,25000,0
+20,Medical Center,Medical Center,H,50,25,1000000,0
+21,Waterfront Resort,Resort,E,450,275,3000000,0
+22,City View Hotel,Hotel,C,150,80,800000,0
+23,Hardware Store,Retail Store,I,3,2,50000,0
+24,Coffee Shop,Cafe,G,5,3,75000,1
+25,Co-working Space,Co-working Space,H,25,10,250000,1
+26,Beach Club,Club,B,50,20,500000,0
+27,Art Gallery,Art Gallery,I,3,2,100000,0
+28,Apartment Building,Real Estate,J,100,10,1000000,1
+29,Community Center,Community Center,K,15,5,150000,1
+30,Supermarket,Supermarket,L,20,10,250000,0
+31,Car Dealership,Car Dealership,M,5,5,500000,0
+32,Food Truck,Food Truck,N,1,1,25000,1
+33,Hair Salon,Beauty Salon,O,3,2,50000,1
+34,Furniture Store,Retail Store,P,2,1,50000,1
+35,Veterinary Clinic,Veterinary Clinic,Q,10,5,150000,0
+36,Theater Company,Theater Company,R,10,5,75000,0
+37,Bookstore,Bookstore,S,2,1,25000,0
+38,Daycare,Daycare,T,15,5,100000,1
+39,Fast Food Restaurant,Restaurant,U,5,3,50000,1
+40,Animal Shelter,Animal Shelter,V,5,2,100000,0
+41,Bar,Bar,W,5,3,50000,0
+42,Flower Shop,Flower Shop,X,1,1,25000,1
+43,University,University,Y,500,200,5000000,1
+44,Bank,Bank,Z,10,10,250000,0
+45,Shoe Store,Retail Store,A1,2,1,50000,1
+46,Island Resort,Resort,A,350,200,1800000,1
+47,Conference Center,Conference Center,C,40,20,300000,1
+48,Guest House,Guest House,E,10,5,150000,0
+49,Adventure Lodge,Lodge,D,30,15,400000,0
+50,Cozy Inn,Inn,B,20,10,200000,1
+51,Seaside Hotel,Hotel,A,150,75,800000,1
+52,Historic Inn,Inn,B,15,8,100000,1
+53,Tropical Resort,Resort,E,250,150,1700000,0
+54,Retreat Center,Retreat Center,D,80,30,500000,1
+55,Wellness Spa,Spa,C,60,25,700000,0
+56,City Hotel,Hotel,A,100,50,500000,1
+57,Beachside Resort,Resort,B,400,300,2500000,0
+58,Family Inn,Inn,E,25,10,150000,1
+59,Mountain Resort,Resort,D,150,100,1200000,0
+60,Medical Center,Clinic,C,30,15,600000,1
+61,Adventure Resort,Resort,A,300,200,1800000,0
+62,Retirement Home,Retirement Home,E,50,25,300000,1
+63,Luxury Hotel,Hotel,B,250,150,2000000,0
+64,Beach Hotel,Hotel,A,120,60,700000,0
+65,Conference Hotel,Conference Center,C,80,40,800000,0
+66,Health Spa,Spa,D,70,30,600000,0
+67,Inn by the River,Inn,B,15,8,100000,1
+68,Secluded Resort,Resort,D,200,100,1500000,1
+69,Beachfront Lodge,Lodge,A,40,20,250000,0
+70,Ski Lodge,Lodge,D,60,30,500000,0
+71,City Resort,Resort,A,150,100,1000000,0
+72,Wellness Resort,Resort,C,200,150,2000000,0
+73,Tropical Lodge,Lodge,E,80,40,800000,0
+74,Family Resort,Resort,B,300,200,1800000,1
+75,Luxury Resort,Resort,A,400,300,3000000,1
+76,Health Retreat,Retreat Center,C,60,25,700000,1
+77,Beach Retreat,Retreat Center,E,100,50,500000,1
+78,Retreat Lodge,Lodge,D,40,20,250000,1
+79,Medical Spa,Spa,C,50,25,300000,1
+80,Mountain Spa,Spa,D,100,50,800000,1
+81,Island Lodge,Lodge,A,80,40,700000,0
+82,Country Inn,Inn,B,20,10,150000,1
+83,Mountain Inn,Inn,D,30,15,200000,1
+84,Health Center,Clinic,C,10,5,100000,0
+85,Beach Lodge,Lodge,A,50,25,500000,1
+86,Mountain Retreat,Retreat Center,D,50,20,400000,0
+87,Beach Spa,Spa,A,80,40,600000,0
+88,Retreat Spa,Spa,E,60,25,500000,0
+89,Resort Spa,Spa,B,150,75,1200000,0
